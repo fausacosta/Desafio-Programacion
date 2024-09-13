@@ -66,7 +66,7 @@ namespace Desafío_Programación.Modelos
         {
             if (Categorias.ContainsKey(categoria))
             {
-                Console.WriteLine($"Libros en la categoría {categoria}:");
+                Console.WriteLine($"Libros {categoria}:");
                 foreach (var libro in Categorias[categoria])
                 {
                     libro.MostrarDetalles();
@@ -82,7 +82,7 @@ namespace Desafío_Programación.Modelos
             if (libro.Stock >= cantidad)
             {
                 libro.Stock -= cantidad;
-                Console.WriteLine($"Compra exitosa. {cantidad} unidad(es) de '{libro.Nombre}' adquirida(s).");
+                Console.WriteLine($"Compra exitosa. {cantidad} unidades de '{libro.Nombre}' adquiridas.");
                 return true;
             }
             else

@@ -22,7 +22,7 @@ namespace Desafío_Programación.Modelos
 
         public void MostrarDetalles()
         {
-            Console.WriteLine($"Nombre: {Nombre}, Precio: {Precio:C}, Stock disponible: {Stock}");
+            Console.WriteLine($"Nombre: {Nombre}\n Precio: {Precio}\n Stock: {Stock}");
         }
     }
 }

@@ -20,10 +20,10 @@
             while (true)
             {
                 Console.Clear();
-                Console.WriteLine("Seleccione una opción: ");
-                Console.WriteLine("1. Registrarse.");
-                Console.WriteLine("2. Iniciar Sesión.");
-                Console.WriteLine("3. Salir.");
+                Console.WriteLine("Bienvenido. ");
+                Console.WriteLine("1) Registrarse.");
+                Console.WriteLine("2) Iniciar Sesión.");
+                Console.WriteLine("3) Salir.");
                 string opcion = Console.ReadLine();
 
                 switch (opcion)
@@ -52,9 +52,9 @@
         {
             Console.Clear();
             Console.WriteLine("REGISTRO.");
-            Console.Write("Ingresa tu usuario: ");
+            Console.Write("Usuario: ");
             string nombreUsuario = Console.ReadLine();
-            Console.Write("Ingresa tu contraseña: ");
+            Console.Write("Contraseña: ");
             string contrasena = Console.ReadLine();
             usuarioActual = new Usuario(nombreUsuario, contrasena);
         }
@@ -69,20 +69,20 @@
                 return false;
             }
 
-            Console.Write("Ingresa tu usuario: ");
+            Console.Write("Usuario: ");
             string nombreUsuario = Console.ReadLine();
-            Console.Write("Ingresa tu contraseña: ");
+            Console.Write("Contraseña: ");
             string contrasena = Console.ReadLine();
 
             if (usuarioActual.InicioDeSesion(nombreUsuario, contrasena))
             {
-                Console.WriteLine("Inicio de sesión exitoso.");
+                Console.WriteLine("Bienvenido.");
                 Console.ReadKey();
                 return true;
             }
             else
             {
-                Console.WriteLine("Nombre de usuario o contraseña incorrectos.");
+                Console.WriteLine("Usuario o contraseña incorrectos.");
                 Console.ReadKey();
                 return false;
             }
@@ -107,7 +107,7 @@
 
                 if (libreria.ProcesarCompra(libroSeleccionado, cantidad))
                 {
-                    SolicitarDatosTarjeta();
+                    DatosTarjeta();
                 }
             }
             else
@@ -116,18 +116,18 @@
                 Console.ReadKey();
             }
         }
-        private void SolicitarDatosTarjeta()
+        private void DatosTarjeta()
         {
             Console.Clear();
 
             Console.Write("Numero de tarjeta: ");
-            string numeroTarjeta = Console.ReadLine();
+            string numeroDeTarjeta = Console.ReadLine();
             Console.Write("Fecha de vencimiento (MM/AA): ");
-            string fechaVencimiento = Console.ReadLine();
+            string fechaDeVencimiento = Console.ReadLine();
             Console.Write("Código de seguridad: ");
-            string codigoSeguridad = Console.ReadLine();
+            string codigoDeSeguridad = Console.ReadLine();
 
-            TarjetaDeCredito tarjeta = new TarjetaDeCredito(numeroTarjeta, fechaVencimiento, codigoSeguridad);
+            TarjetaDeCredito tarjeta = new TarjetaDeCredito(numeroDeTarjeta, fechaDeVencimiento, codigoDeSeguridad);
 
             if (tarjeta.VerificarLaTarjeta())
             {
