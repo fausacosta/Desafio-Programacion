@@ -21,21 +21,21 @@
             {
                 Console.Clear();
                 Console.WriteLine("Bienvenido. ");
-                Console.WriteLine("1) Registrarse.");
-                Console.WriteLine("2) Iniciar Sesión.");
+                Console.WriteLine("1) Iniciar Sesión.");
+                Console.WriteLine("2) Registrarse.");
                 Console.WriteLine("3) Salir.");
                 string opcion = Console.ReadLine();
 
                 switch (opcion)
                 {
                     case "1":
-                        RegistrarUsuario();
-                        break;
-                    case "2":
                         if (IniciarSesion())
                         {
                             MostrarCategorias();
                         }
+                        break;
+                    case "2":
+                        RegistrarUsuario();
                         break;
                     case "3":
                         Console.WriteLine("Adios.");

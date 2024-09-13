@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Menu.cs",
               "ToolTip": "C:\\Users\\Faus\\source\\repos\\Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Menu.cs",
               "RelativeToolTip": "Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Menu.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAcwIEAAABpAAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwCYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T00:16:30.343Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Libro.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T00:57:48.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T00:57:48.559Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Desaf\u00EDo-Programaci\u00F3n\\Modelos\\TarjetaDeCredito.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T21:07:49.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T21:07:49.712Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Libreria.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAA0wFgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T21:06:28.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T21:06:28.095Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T21:04:49.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T21:04:49.156Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "Desaf\u00EDo-Programaci\u00F3n\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T20:58:41.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T20:58:41.558Z"
             }
           ]
         }
