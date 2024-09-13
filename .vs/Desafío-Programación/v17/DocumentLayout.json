@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Faus\\source\\repos\\Desaf\u00EDo-Programaci\u00F3n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB585E7-C0DD-4630-B2CA-145A66F04D0D}|Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n.csproj|c:\\users\\faus\\source\\repos\\desaf\u00EDo-programaci\u00F3n\\desaf\u00EDo-programaci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB585E7-C0DD-4630-B2CA-145A66F04D0D}|Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n.csproj|solutionrelative:desaf\u00EDo-programaci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB585E7-C0DD-4630-B2CA-145A66F04D0D}|Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n.csproj|c:\\users\\faus\\source\\repos\\desaf\u00EDo-programaci\u00F3n\\desaf\u00EDo-programaci\u00F3n\\modelos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB585E7-C0DD-4630-B2CA-145A66F04D0D}|Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n.csproj|solutionrelative:desaf\u00EDo-programaci\u00F3n\\modelos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB585E7-C0DD-4630-B2CA-145A66F04D0D}|Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n.csproj|c:\\users\\faus\\source\\repos\\desaf\u00EDo-programaci\u00F3n\\desaf\u00EDo-programaci\u00F3n\\modelos\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB585E7-C0DD-4630-B2CA-145A66F04D0D}|Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n.csproj|solutionrelative:desaf\u00EDo-programaci\u00F3n\\modelos\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB585E7-C0DD-4630-B2CA-145A66F04D0D}|Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n.csproj|c:\\users\\faus\\source\\repos\\desaf\u00EDo-programaci\u00F3n\\desaf\u00EDo-programaci\u00F3n\\modelos\\tarjetadecredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB585E7-C0DD-4630-B2CA-145A66F04D0D}|Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n.csproj|solutionrelative:desaf\u00EDo-programaci\u00F3n\\modelos\\tarjetadecredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB585E7-C0DD-4630-B2CA-145A66F04D0D}|Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n.csproj|c:\\users\\faus\\source\\repos\\desaf\u00EDo-programaci\u00F3n\\desaf\u00EDo-programaci\u00F3n\\modelos\\libreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB585E7-C0DD-4630-B2CA-145A66F04D0D}|Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n.csproj|solutionrelative:desaf\u00EDo-programaci\u00F3n\\modelos\\libreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB585E7-C0DD-4630-B2CA-145A66F04D0D}|Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n.csproj|c:\\users\\faus\\source\\repos\\desaf\u00EDo-programaci\u00F3n\\desaf\u00EDo-programaci\u00F3n\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB585E7-C0DD-4630-B2CA-145A66F04D0D}|Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n.csproj|solutionrelative:desaf\u00EDo-programaci\u00F3n\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Faus\\source\\repos\\Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Menu.cs",
+              "RelativeDocumentMoniker": "Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Menu.cs",
+              "ToolTip": "C:\\Users\\Faus\\source\\repos\\Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Menu.cs",
+              "RelativeToolTip": "Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:16:30.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Faus\\source\\repos\\Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Libro.cs",
+              "RelativeDocumentMoniker": "Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Libro.cs",
+              "ToolTip": "C:\\Users\\Faus\\source\\repos\\Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Libro.cs",
+              "RelativeToolTip": "Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Libro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:57:48.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TarjetaDeCredito.cs",
+              "DocumentMoniker": "C:\\Users\\Faus\\source\\repos\\Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n\\Modelos\\TarjetaDeCredito.cs",
+              "RelativeDocumentMoniker": "Desaf\u00EDo-Programaci\u00F3n\\Modelos\\TarjetaDeCredito.cs",
+              "ToolTip": "C:\\Users\\Faus\\source\\repos\\Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n\\Modelos\\TarjetaDeCredito.cs",
+              "RelativeToolTip": "Desaf\u00EDo-Programaci\u00F3n\\Modelos\\TarjetaDeCredito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:07:49.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Libreria.cs",
+              "DocumentMoniker": "C:\\Users\\Faus\\source\\repos\\Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Libreria.cs",
+              "RelativeDocumentMoniker": "Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Libreria.cs",
+              "ToolTip": "C:\\Users\\Faus\\source\\repos\\Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Libreria.cs",
+              "RelativeToolTip": "Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Libreria.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:06:28.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Faus\\source\\repos\\Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Faus\\source\\repos\\Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "Desaf\u00EDo-Programaci\u00F3n\\Modelos\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:04:49.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Faus\\source\\repos\\Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n\\Program.cs",
+              "RelativeDocumentMoniker": "Desaf\u00EDo-Programaci\u00F3n\\Program.cs",
+              "ToolTip": "C:\\Users\\Faus\\source\\repos\\Desaf\u00EDo-Programaci\u00F3n\\Desaf\u00EDo-Programaci\u00F3n\\Program.cs",
+              "RelativeToolTip": "Desaf\u00EDo-Programaci\u00F3n\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:58:41.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

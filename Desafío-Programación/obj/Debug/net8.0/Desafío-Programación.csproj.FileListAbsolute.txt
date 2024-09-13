@@ -1,0 +1,14 @@
+C:\Users\Faus\source\repos\Desafío-Programación\Desafío-Programación\obj\Debug\net8.0\Desafío-Programación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faus\source\repos\Desafío-Programación\Desafío-Programación\obj\Debug\net8.0\Desafío-Programación.AssemblyInfoInputs.cache
+C:\Users\Faus\source\repos\Desafío-Programación\Desafío-Programación\obj\Debug\net8.0\Desafío-Programación.AssemblyInfo.cs
+C:\Users\Faus\source\repos\Desafío-Programación\Desafío-Programación\obj\Debug\net8.0\Desafío-Programación.csproj.CoreCompileInputs.cache
+C:\Users\Faus\source\repos\Desafío-Programación\Desafío-Programación\bin\Debug\net8.0\Desafío-Programación.exe
+C:\Users\Faus\source\repos\Desafío-Programación\Desafío-Programación\bin\Debug\net8.0\Desafío-Programación.deps.json
+C:\Users\Faus\source\repos\Desafío-Programación\Desafío-Programación\bin\Debug\net8.0\Desafío-Programación.runtimeconfig.json
+C:\Users\Faus\source\repos\Desafío-Programación\Desafío-Programación\bin\Debug\net8.0\Desafío-Programación.dll
+C:\Users\Faus\source\repos\Desafío-Programación\Desafío-Programación\bin\Debug\net8.0\Desafío-Programación.pdb
+C:\Users\Faus\source\repos\Desafío-Programación\Desafío-Programación\obj\Debug\net8.0\Desafío-Programación.dll
+C:\Users\Faus\source\repos\Desafío-Programación\Desafío-Programación\obj\Debug\net8.0\refint\Desafío-Programación.dll
+C:\Users\Faus\source\repos\Desafío-Programación\Desafío-Programación\obj\Debug\net8.0\Desafío-Programación.pdb
+C:\Users\Faus\source\repos\Desafío-Programación\Desafío-Programación\obj\Debug\net8.0\Desafío-Programación.genruntimeconfig.cache
+C:\Users\Faus\source\repos\Desafío-Programación\Desafío-Programación\obj\Debug\net8.0\ref\Desafío-Programación.dll
